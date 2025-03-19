@@ -1,6 +1,8 @@
 # Hi there folks 👋
 
-🕵️ I'm a software developer based in the south of Spain who fancies coding mostly in **Python** and **JavaScript** through modern frameworks like **Django** and **Vue.js**. Fancying much **Docker** and **Terraform** to automate and coordinate software infrastructure and CI/CD pipelines 👀 
+🕵️ I'm a software developer based in the south of Spain who fancies coding mostly in **Python** and **JavaScript** through modern frameworks like **Django** and **Vue.js**.
+
+🏗️ Fancying much **Docker** and **Terraform** to automate and coordinate secure software infrastructures and CI/CD pipelines.
 
 💌 Here at my [GitHub](https://www.github.com/Endzel) you'll be able to check some of my personal projects. Feel free to reach me anytime here or at my [Twitter](https://www.twitter.com/endzeldev) account.
 
